@@ -2,7 +2,7 @@
 MariShipInsSeg数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1bWHwDTOdYo6DwoXank0Hiw
 提取码：HEU3
-
+数据集细节详见以下论文
 Please cite references 
 
 @article{sun2022global,
@@ -18,7 +18,7 @@ Please cite references
 Foggy ShipInsseg Dataset 数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1994NLnm-7KklltQ0Znp_GA 
 提取码：vec2
-
+数据集细节详见以下论文
 Please cite references 
 
 @article{sun2022irdclnet,
