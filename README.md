@@ -3,7 +3,7 @@ MariShipInsSeg数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1bWHwDTOdYo6DwoXank0Hiw
 提取码：HEU3
 
-Citing References 
+Please cite references 
 
 @article{sun2022global,
   title={Global Mask R-CNN for marine ship instance segmentation},
@@ -15,3 +15,16 @@ Citing References
   publisher={Elsevier}
 }
 
+Foggy ShipInsseg Dataset 数据集可通过以下链接获取
+链接：https://pan.baidu.com/s/1ZGu8ZLRlRdAatlO3KL3FAw 
+提取码：SISD
+
+Please cite references 
+
+@article{sun2022irdclnet,
+  title={IRDCLNet: Instance Segmentation of Ship Images based on Interference Reduction and Dynamic Contour Learning in Foggy Scenes},
+  author={Sun, Yuxin and Su, Li and Luo, Yongkang and Meng, Hao and Zhang, Zhi and Zhang, Wen and Yuan, Shouzheng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
