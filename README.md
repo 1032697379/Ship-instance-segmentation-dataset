@@ -16,8 +16,8 @@ Please cite references
 }
 
 Foggy ShipInsseg Dataset 数据集可通过以下链接获取
-链接：https://pan.baidu.com/s/1nK-F65_gO8ZYcDfQmQF0jQ 
-提取码：SISD
+链接：https://pan.baidu.com/s/1994NLnm-7KklltQ0Znp_GA 
+提取码：vec2
 
 Please cite references 
 
