@@ -30,3 +30,7 @@ Please cite references
   year={2022},
   publisher={IEEE}
 }
+
+Small ShipInsseg Dataset 数据集可通过以下链接获取
+链接：https://pan.baidu.com/s/1KwDHicZKKmANsFoyQ6Oy8w 
+提取码：ilcb
