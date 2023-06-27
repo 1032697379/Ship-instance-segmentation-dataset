@@ -1,5 +1,5 @@
 # Ship-instance-segmentation-dataset
-MariShipInsSeg数据集可通过以下链接获取
+1. MariShipInsSeg数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1bWHwDTOdYo6DwoXank0Hiw
 提取码：HEU3
 
@@ -16,7 +16,7 @@ Please cite references
   publisher={Elsevier}
 }
 
-Foggy ShipInsseg Dataset 数据集可通过以下链接获取
+2. Foggy ShipInsseg Dataset 数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1994NLnm-7KklltQ0Znp_GA 
 提取码：vec2
 
@@ -31,6 +31,20 @@ Please cite references
   publisher={IEEE}
 }
 
-Small ShipInsseg Dataset 数据集可通过以下链接获取
+3. Small ShipInsseg Dataset 数据集可通过以下链接获取
 链接：https://pan.baidu.com/s/1KwDHicZKKmANsFoyQ6Oy8w 
 提取码：ilcb
+
+数据集细节详见以下论文
+Please cite reference
+
+@ARTICLE{10102514,
+  author={Sun, Yuxin and Su, Li and Yuan, Shouzheng and Meng, Hao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={DANet: Dual-branch Activation Network for Small Object Instance Segmentation of Ship Images}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3267127}}
+
